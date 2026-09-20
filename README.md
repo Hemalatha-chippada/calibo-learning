@@ -1,30 +1,44 @@
-# Calibo AI Academy Learning
+# Calibo AI Academy - Month 1
 
-This repository contains my learning journey, practice work, and assignments completed during the Calibo AI Academy program.
+Welcome to my Calibo AI Academy learning journey.
 
-## Skills & Technologies
+This repository contains my learning, practice, and assignments completed during the first month of the program.
+
+## Month 1 Progress
+
+| Week | Topic | Work Completed |
+|------|-------|----------------|
+| Week 1 | SQL | SQL learning and Assignment 1 |
+| Week 2 | SQL | SQL learning and Assignment 2 |
+| Week 3 | Python | Python practice |
+| Week 4 | NumPy | NumPy practice |
+
+## Weekly Work
+
+### Week 1 - SQL
+- SQL fundamentals
+- SQL practice
+- SQL Assignment 1
+
+### Week 2 - SQL
+- SQL concepts and practice
+- SQL Assignment 2
+
+### Week 3 - Python
+- Python fundamentals
+- Python practice programs
+
+### Week 4 - NumPy
+- NumPy fundamentals
+- Arrays and matrix operations
+- NumPy practice
+
+## Skills Practiced
 
 - SQL
 - Python
 - NumPy
-- Generative AI
 
-## Repository Structure
+## Learning Journey
 
-### SQL
-Contains SQL learning documentation and completed assignments covering queries, joins, normalization, subqueries, aggregate functions, and window functions.
-
-### Python
-Contains documentation of my Python learning and practice.
-
-### NumPy
-Contains my NumPy practice notebooks covering arrays, matrix operations, vector operations, statistics, and array manipulation.
-
-## Purpose
-
-This repository documents my continuous learning and hands-on practice throughout the Calibo AI Academy.
-
-## Author
-
-**Hemalatha Chippada**  
-B.Tech – Electronics and Communication Engineering
+This month helped me build a foundation in SQL, Python, and NumPy through continuous learning and hands-on practice.
